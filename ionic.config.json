@@ -1,0 +1,7 @@
+{
+  "name": "appEstetica",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}

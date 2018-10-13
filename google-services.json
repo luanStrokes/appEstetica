@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "115143740247",
+    "firebase_url": "https://appestetica-217913.firebaseio.com",
+    "project_id": "appestetica-217913",
+    "storage_bucket": "appestetica-217913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115143740247:android:d3c16f1d51f73f39",
+        "android_client_info": {
+          "package_name": "com.lcmj.appestetica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115143740247-tu9ioi59oi9hjvo2qg17dfuv3pmshvc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGkvx3m_8o406RgB0TocidEtf-7Ha_Aw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
